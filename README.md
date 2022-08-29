@@ -68,7 +68,7 @@ On additional branches, you can make edits without impacting the `main` version.
 
 ### :keyboard: Activity: Your first branch
 
-1. Open a new browser tab, and navigate to this same repository. Then, work on the steps in your second tab while you read the instructions in this tab.
+1. Open a new browser tab, and navigate to this same repository. Then, work on the steps in your second tab while you read the instructions in this tab. :wave:
 2. Navigate to the **Code** tab.
 3. Click on the **main** branch drop-down.<br>
    <img alt="image showing my-first-branch entry" src="/images/my-first-branch.png"/>
